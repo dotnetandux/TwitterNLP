@@ -33,7 +33,7 @@ The application uses the Twitter API to authenticate users and retrieve their tw
 
 2. Open the project in Android Studio.
 
-3. Configure the Twitter API keys in the project (instructions in `src/config` or similar).
+3. Configure the Twitter API keys in the project.
 
 4. Build and run the application on an Android emulator or physical device.
 
