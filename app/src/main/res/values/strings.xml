@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Forks in the Stream</string>
+    <string name="loginLoadButton">Load</string>
+    <string name="about_description">Author: Morgan E Jones.\n\nThis application is set up for you to
+        manually organise the people you follow into categories and for tweets within these categories
+        to then be sorted into the threads based on what each one is talking about.\n\n
+        *MAIN MENU*\n— Hold to delete a category, click to view its feed and swipe left to edit
+        the category.\n\n*CATEGORIES*\n— When editing a category, click the name to edit it.\n— To
+        add a new category: click to expand below, enter a name and then click the green Add new
+        Category to save it.\n\n*THREADS*\n— Blue words are keywords which match the thread.
+        Red are negative words, and green are positive.\n— Links in tweets are redacted and
+        instead can be viewed by clicking the link button which will be blue if enabled. The other
+        two buttons are for standard favouriting and retweeting.\n\n*ASSIGN USERS*\n— Clicking
+        on assign users below will take you to the setup screen. All contacts who have not yet been
+        assigned will appear. Check next to the name to assign the user to the title category. Click
+        on the next arrow then to move onto the next category and to finish when done. You will then
+        be redirected to the main screen so that tweets can be processed.</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="morgan.jones.whatistwitter.MainActivity"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@mipmap/ic_launcher"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:id="@+id/app_logo"/>
+
+    <ProgressBar
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:id="@+id/progress_bar_main" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="5dp"
+        android:background="@color/colorPrimary"
+        android:fontFamily="@font/holtwood_one_sc"
+        android:text="Login"
+        android:textColor="#ffffff"
+        android:textSize="30sp" />
+
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:text="@string/loginLoadButton"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#ffffff"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/load_button"
+        android:textSize="30sp"
+        android:fontFamily="@font/holtwood_one_sc"/>
+
+</LinearLayout>

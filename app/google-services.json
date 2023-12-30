@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "704607177247",
+    "firebase_url": "https://twitterapp-ccd24.firebaseio.com",
+    "project_id": "twitterapp-ccd24",
+    "storage_bucket": "twitterapp-ccd24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704607177247:android:d6e94e9358842b49",
+        "android_client_info": {
+          "package_name": "morgan.jones.whatistwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704607177247-4amc0vdhl2t952jkqjkeiqfea4j3rd5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69j6X57VaAd5dy3ODKYFV0dralUw88SI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
